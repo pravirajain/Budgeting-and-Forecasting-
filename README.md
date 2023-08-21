@@ -10,4 +10,4 @@ projected revenue growth trends. This project
 effectively showcased my proficiency in budgeting,
 forecasting, and Excel, demonstrating my ability to 
 leverage data analysis to drive informed financial 
-decisions![image](https://github.com/pravirajain/Budgeting-and-Forecasting-/assets/142695978/fdf56117-76ba-4892-b8d2-023f1d324f20)
+decisions!
